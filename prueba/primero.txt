@@ -1,5 +1,13 @@
-<?php
-h1:
-
-
->
+<html>
+	<head>
+	</head>
+	<body>
+		<h1>Bienvenido</h1>
+		<?php
+		
+			echo "Hola soy un parrafo";
+			echo "<br>";
+			echo 3+3;
+		?>
+	</body>
+</html>
